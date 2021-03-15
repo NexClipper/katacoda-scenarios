@@ -26,8 +26,14 @@
     }
   },
   "environment": {
-    "hideintro": true,
-    "uilayout": "terminal"
+    "showdashboard": true,
+    "dashboards": [
+      {
+        "name": "NexClipper",
+        "href": "https://nexclipper.io"
+      }
+    ],
+    "uilayout": "terminal-iframe"
   },
   "backend": {
     "imageid": "kubernetes-cluster-running:1.18"
