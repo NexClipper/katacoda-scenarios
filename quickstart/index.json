@@ -30,7 +30,7 @@
     "dashboards": [
       {
         "name": "NexClipper",
-        "href": "https://nexclipper.io"
+        "href": "https://console.nexclipper.io"
       }
     ],
     "uilayout": "terminal-iframe"
